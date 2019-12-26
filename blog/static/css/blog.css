@@ -1,0 +1,32 @@
+.proffont{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+.bigbrand{
+    font-size: 1.5em;
+}
+
+.centerstage{
+    margin: auto;
+  }
+
+.postdate{
+    
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+  }
+.posttitle{
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2.5em;
+    text-align: center;
+}
+.postcontent{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5em;
+}
+.btn-comment{
+    position: absolute;
+    right: 0px;
+  }
+  
